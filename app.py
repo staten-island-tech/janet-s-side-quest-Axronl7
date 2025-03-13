@@ -17,6 +17,3 @@ print(data)  # Output the list
 
 
 
-
-    
-
